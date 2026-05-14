@@ -1,0 +1,4 @@
+scott pilgrim,2
+jogador N1,0
+rick and morty,1
+cyber,1

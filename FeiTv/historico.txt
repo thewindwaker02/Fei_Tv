@@ -1,0 +1,23 @@
+nicolas,Scott Pilgrim Contra o Mundo,Filme de comédia e ação com estética e batalhas de videogame
+emz,Scott Pilgrim Contra o Mundo,Filme de comédia e ação com estética e batalhas de videogame
+felipe,Scott Pilgrim Contra o Mundo,Filme de comédia e ação com estética e batalhas de videogame
+felipe,Jogador N1,Filme de ficção científica cheio de referências a cultura pop e videogames
+felipe,Invencível,Série de animação adulta de super-heróis com muita ação e reviravoltas
+felipe,The Boys,Série sobre super-heróis corruptos e o grupo focado em detê-los
+felipe,Apenas um Show,Animação sobre um passaro e um guaxinim em aventuras surreais no parque
+felipe,Hora de Aventura,As aventuras mágicas de Finn e seu cão Jake na Terra de Ooo
+felipe,Titio Avô,Animação maluca sobre o tio e avô mágico de todas as crianças do mundo
+felipe,À Prova de Tudo - Bear Grylls,Série de sobrevivência onde Bear Grylls enfrenta a natureza selvagem
+felipe,Jogador N1,Filme de ficção científica cheio de referências a cultura pop e videogames
+felipe,Scott Pilgrim Contra o Mundo,Filme de comédia e ação com estética e batalhas de videogame
+felipe,O Incrível Mundo de Gumball,Animação super divertida sobre um adolescente e sua familia bizarra
+felipe,Rick and Morty,Animação adulta de ficção científica sobre um cientista louco e seu neto
+felipe,Free Guy,Comédia sobre um NPC de videogame que descobre que seu mundo não é real
+felipe,Gen V,Série derivada de The Boys acompanhando jovens super-heróis na universidade
+felipe,Cyberpunk: Mercenários,Animação intensa baseada no universo do jogo Cyberpunk 2077
+fernando,Invencível,Série de animação adulta de super-heróis com muita ação e reviravoltas
+fernando,Scott Pilgrim Contra o Mundo,Filme de comédia e ação com estética e batalhas de videogame
+kleber,Rick and Morty,Animação adulta de ficção científica sobre um cientista louco e seu neto
+kleber,Invencível,Série de animação adulta de super-heróis com muita ação e reviravoltas
+flip,Rick and Morty,Animação adulta de ficção científica sobre um cientista louco e seu neto
+jp,Cyberpunk: Mercenários,Animação intensa baseada no universo do jogo Cyberpunk 2077
